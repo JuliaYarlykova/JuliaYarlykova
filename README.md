@@ -14,7 +14,7 @@
 
 <h2>Моя статистика:</h2>
 
-<div align="center">[![GitHub Streak](https://streak-stats.demolab.com/?user=JuliaYarlykova)](https://git.io/streak-stats)</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JuliaYarlykova)](https://git.io/streak-stats)
 
 
 
